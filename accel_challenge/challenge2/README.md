@@ -39,7 +39,7 @@
      ```
 
 6. **Evaluate Challenge 2**
-   - Open a sixth terminal to run the evaluation for challenge 1:
+   - Open a sixth terminal to run the evaluation for challenge 2:
      ```bash
      cd <path to accel-challenge>
      source bash/init.sh
