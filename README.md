@@ -76,3 +76,6 @@ ENV_NAME="accel_challenge" # conda virtual environment name
 
 - To run Challenge #1, please refer to the [README](https://github.com/Draculair/accelnet-challenge/tree/master/accel_challenge/challenge1).
 - To run Challenge #2, please refer to the [README](https://github.com/Draculair/accelnet-challenge/tree/master/accel_challenge/challenge2).
+
+## Results
+The results are showed in "challenge1.mkv" and "challenge2.mkv".
